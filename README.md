@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krisnayudha277
-- 👀 I’m interested in data science
+- 👀 I’m interested in seo ,content writer ,digital marketing
 - 🌱 I’m currently learning r programing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking job for to the future
+- 📫 you can see my portofolio in my website naato.naato.my.id
 
 <!---
 krisnayudha277/krisnayudha277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
