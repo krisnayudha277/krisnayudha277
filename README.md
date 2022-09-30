@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krisnayudha277
-- 👀 I’m interested in seo ,content writer ,digital marketing
-- 🌱 I’m currently learning r programing
+- 👀 I’m interested in seo ,content writer ,digital marketing ,web development
 - 💞️ I’m looking job for to the future
 - 📫 you can see my portofolio in my website naato.naato.my.id
 
